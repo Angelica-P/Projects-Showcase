@@ -1,6 +1,5 @@
-# Name: Angelica Paynter
-# Student Number: 300062844
-# Course: ITI 1120
+# Student added code by Angelica Paynter
+# DocStrings and Assigment by Vida Dujmovic
 # Assignment 3 Game
 
 import random
